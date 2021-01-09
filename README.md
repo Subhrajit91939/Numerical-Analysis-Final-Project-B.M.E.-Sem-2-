@@ -13,9 +13,6 @@ I have published the project as a Repo on github for Easier Access to the Graphs
 
 
 Jadavpur University:
-
 Arnab Adhikary;
-
 Sankalan Ghosh;
-
 Subhrajit Guchait.
