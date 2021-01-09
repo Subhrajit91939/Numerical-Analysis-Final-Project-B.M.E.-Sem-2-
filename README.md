@@ -12,7 +12,8 @@ I have published the project as a Repo on github for Easier Access to the Graphs
 /TrajectoryEquations.cpp : C Code for OG Trajectory Equations.
 
 
-Jadavpur University:\newline
+Jadavpur University:
+
 Arnab Adhikary;
 Sankalan Ghosh;
 Subhrajit Guchait.
